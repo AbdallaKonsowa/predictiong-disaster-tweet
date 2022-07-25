@@ -1,5 +1,5 @@
 # predictiong-disaster-tweet
-Taking a data-set of twittes and try to predict which tweet is a disaster tweet
+Design a Model which Classify disaster tweet Using NLP to prepare dataset and LSTM Structure.
 ### id - a unique identifier for each tweet 
 ### text - the text of the tweet
 ### location - the location the tweet was sent from (may be blank)
